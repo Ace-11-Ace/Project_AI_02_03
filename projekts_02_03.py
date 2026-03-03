@@ -121,4 +121,5 @@ print("\n=== SECINĀJUMI ===")
 print("1. Tika analizētas sakarības starp mainīgajiem.")
 print("2. Tika salīdzināti trīs mašīnmācīšanās modeļi.")
 print("3. Random Forest modelis parasti uzrāda vislabāko precizitāti.")
+
 print("4. Nozīmīgākie faktori redzami augstāk tabulā.")
